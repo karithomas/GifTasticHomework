@@ -1,0 +1,29 @@
+body{
+    background-image: url("../images/background.webp");
+    background-repeat: repeat;
+}
+#jumbo{
+    background-color: #4cc51c;
+    color: white;
+    border: 4px solid #260d1a;
+    font-family: 'Electrolize', sans-serif;  
+    text-align: center; 
+}
+#b1 , #b2 , #b3 , #b4{
+    background-color: #4cc51c;
+    color: white;
+    border: 4px solid #260d1a;
+    font-family: 'Electrolize', sans-serif;  
+    margin: 30px;
+    position: relative;
+}
+#laugh{
+    border: 4px solid #260d1a;
+}
+#gifsHere{
+    color: #260d1a;
+    font-family: 'Electrolize', sans-serif;  
+    font: bolder;
+    float: left;
+    font-size: 24px;
+}
